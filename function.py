@@ -40,5 +40,5 @@ def extract_keypoints(results):
 
 actions = np.array(['A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z'])
 # change the values as and where necessary
-no_sequences = 2
-sequence_length = 2
+no_sequences = 80
+sequence_length = 80
